@@ -1,7 +1,6 @@
-![PROGRAMMING](https://github.com/user-attachments/assets/4982ab9c-88e1-4dcd-867f-ee1ec9728a56)
+![Image](https://github.com/user-attachments/assets/b6dc23ea-b27a-41fc-8901-8d416f81d970)
 
-
-      #Hi there!👋 I'm Khoi, and I am a third year Computer Science Student at Vietnamese-German University
+&nbsp;&nbsp;&nbsp;&nbsp;#Hi there!👋 I'm Khoi, and I am a third year Computer Science Student at Vietnamese-German University
 
 I mostly work on **Backend Development** — specializing in **Python** and **Java**, with strong experience in **MySQL**.
 
@@ -28,8 +27,7 @@ Here you will find my projects, experiments, and things I'm currently working on
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### A Bit About Me
-* ✝️ I am a Christian 
+* ✝️ I am a Christian
 * ☕ I am definitely a Coffee addict
-* 📺 I love to learning new things everyday with and a computer science fanatic
+* 📺 I love learning new things everyday and am a computer science fanatic
 * 💡 I like building things that are simple, useful, and easy to understand.
-

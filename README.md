@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/b6dc23ea-b27a-41fc-8901-8d416f81d970)
+![Image](https://github.com/user-attachments/assets/fb30f653-1234-4a84-a2d3-2bca316f98ce)
 
 &nbsp;&nbsp;&nbsp;&nbsp;#Hi there!👋 I'm Khoi, and I am a third year Computer Science Student at Vietnamese-German University
 
